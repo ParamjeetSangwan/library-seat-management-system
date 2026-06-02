@@ -1,0 +1,53 @@
+member_id,full_name,status,seat_number,membership_status,join_date
+1,Rahul Sharma,Active,1,active,2026-05-31
+2,Paramjeet Sangwan,Active,2,active,2026-05-31
+3,Amit Kumar,Active,3,active,2026-06-01
+4,Priya Sharma,Active,4,No membership,2026-06-01
+5,Rohit Singh,Active,5,active,2026-06-01
+6,Neha Gupta,Active,6,active,2026-06-01
+7,Vikash Yadav,Active,7,active,2026-06-01
+8,Pooja Verma,Active,8,active,2026-06-01
+9,Rahul Mishra,Active,9,No membership,2026-06-01
+10,Anjali Joshi,Inactive,10,No membership,2026-06-01
+11,Deepak Tiwari,Active,11,No membership,2026-06-01
+12,Sunita Patel,Active,12,No membership,2026-06-01
+13,Manish Dubey,Active,13,active,2026-06-01
+14,Kavita Singh,Active,14,active,2026-06-01
+15,Rajesh Pandey,Active,15,No membership,2026-06-01
+16,Suman Rai,Active,16,No membership,2026-06-01
+17,Arun Saxena,Active,17,active,2026-06-01
+18,Meena Chauhan,Active,18,active,2026-06-01
+19,Suresh Lodhi,Active,19,No membership,2026-06-01
+20,Rekha Bhatt,Active,20,active,2026-06-01
+21,Vinod Jain,Active,21,active,2026-06-01
+22,Seema Tomar,Active,22,No membership,2026-06-01
+23,Naveen Garg,Inactive,23,No membership,2026-06-01
+24,Geeta Chaudhary,Active,24,No membership,2026-06-01
+25,Pankaj Arora,Active,25,active,2026-06-01
+26,Ritu Bajaj,Active,26,No membership,2026-06-01
+27,Ashok Kapoor,Active,27,active,2026-06-01
+28,Amit Kumar,Active,28,No membership,2026-06-02
+29,Priya Sharma,Active,29,No membership,2026-06-02
+30,Rohit Singh,Active,30,No membership,2026-06-02
+31,Neha Gupta,Active,31,active,2026-06-02
+32,Vikash Yadav,Active,32,active,2026-06-02
+33,Pooja Verma,Active,33,active,2026-06-02
+34,Rahul Mishra,Active,34,No membership,2026-06-02
+35,Anjali Joshi,Active,35,No membership,2026-06-02
+36,Deepak Tiwari,Active,36,active,2026-06-02
+37,Sunita Patel,Active,37,No membership,2026-06-02
+38,Manish Dubey,Active,38,No membership,2026-06-02
+39,Kavita Singh,Active,39,active,2026-06-02
+40,Rajesh Pandey,Active,40,No membership,2026-06-02
+41,Suman Rai,Active,41,active,2026-06-02
+42,Arun Saxena,Active,42,No membership,2026-06-02
+43,Meena Chauhan,Active,43,No membership,2026-06-02
+44,Suresh Lodhi,Active,44,active,2026-06-02
+45,Rekha Bhatt,Active,45,No membership,2026-06-02
+46,Vinod Jain,Active,46,active,2026-06-02
+47,Seema Tomar,Active,47,active,2026-06-02
+48,Naveen Garg,Active,48,No membership,2026-06-02
+49,Geeta Chaudhary,Active,49,active,2026-06-02
+50,Pankaj Arora,Active,50,active,2026-06-02
+51,Ritu Bajaj,Active,51,No membership,2026-06-02
+52,Ashok Kapoor,Inactive,52,No membership,2026-06-02
